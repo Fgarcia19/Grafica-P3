@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.25"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "E2_Iluminacion",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "E2_Iluminacion::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-E2_Iluminacion-Debug-30149f7c0e0580f64dbd.json",
+					"name" : "E2_Iluminacion",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/fabriziogarcia/Desktop/UTEC/Grafica/RepoProfe/2023-1-Rasterizacion/E2-Iluminacion/cmake-build-debug",
+		"source" : "/Users/fabriziogarcia/Desktop/UTEC/Grafica/RepoProfe/2023-1-Rasterizacion/E2-Iluminacion"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

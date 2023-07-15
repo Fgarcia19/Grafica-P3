@@ -1,0 +1,3 @@
+/Users/fabriziogarcia/Desktop/UTEC/Grafica/RepoProfe/2023-1-Rasterizacion/E2-Iluminacion/cmake-build-debug/CMakeFiles/E2_Iluminacion.dir
+/Users/fabriziogarcia/Desktop/UTEC/Grafica/RepoProfe/2023-1-Rasterizacion/E2-Iluminacion/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/fabriziogarcia/Desktop/UTEC/Grafica/RepoProfe/2023-1-Rasterizacion/E2-Iluminacion/cmake-build-debug/CMakeFiles/rebuild_cache.dir

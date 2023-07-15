@@ -1,0 +1,12 @@
+# ninja log v5
+6	349	1689123531544412060	CMakeFiles/E2_Iluminacion.dir/2.1.basic_lighting_diffuse/basic_lighting_diffuse_tetraedro.cpp.o	f540e91466bc5aa4
+380	410	1689151542159013299	E2_Iluminacion	3ae68c679486d66b
+6	379	1689151542126367896	CMakeFiles/E2_Iluminacion.dir/2.1.basic_lighting_diffuse/basic_lighting_diffuse.cpp.o	a38eace83774b04d
+0	41	1689284736603023783	build.ninja	f2fc353284e6d8b3
+6	235	1684962174374403222	CMakeFiles/E2_Iluminacion.dir/include/glad.c.o	57bcfe990fbd5abb
+6	623	1689285016923983915	CMakeFiles/E2_Iluminacion.dir/2.1.basic_lighting_diffuse/basic_lighting_diffuse.cpp.o	a38eace83774b04d
+623	739	1689285017043836262	E2_Iluminacion	3ae68c679486d66b
+6	457	1689285069492639565	CMakeFiles/E2_Iluminacion.dir/2.1.basic_lighting_diffuse/basic_lighting_diffuse.cpp.o	a38eace83774b04d
+457	495	1689285069535218524	E2_Iluminacion	3ae68c679486d66b
+6	554	1689444063044427725	CMakeFiles/E2_Iluminacion.dir/2.1.basic_lighting_diffuse/basic_lighting_diffuse.cpp.o	a38eace83774b04d
+554	597	1689444063090189208	E2_Iluminacion	3ae68c679486d66b
